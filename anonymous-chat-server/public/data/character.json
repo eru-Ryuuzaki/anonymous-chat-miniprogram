@@ -1,0 +1,834 @@
+{
+  "admin": {
+      "color":[37, 224,250],
+      "anime":"不明",
+      "name": "管理桑",
+      "remark": "新人右下小绿是可以点的呦",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4674b78ea2824dcbbd283d98d64a87cf~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "a": {
+      "color":[0,0,0],
+      "anime":"《四月是你的谎言》",
+      "name": "友人A",
+      "remark": "我是基佬",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2360127e5d444694bdfa04b9f78876f2~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "shinji": {
+      "color":[254,254,254],
+      "anime":"《新世纪福音战士》",
+      "name": "碇真嗣",
+      "remark": "只要微笑就可以了",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49cb4c2c25bc4517b4ccf51c0eb77cfb~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "rei": {
+      "color":[104,150,177],
+      "anime":"《新世纪福音战士》",
+      "name": "绫波丽",
+      "remark": "我要让碇君即使不用驾驶EVA，也能活下去",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ee131445a5c74e11b7defef3fbe4e4cf~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "asuka": {
+      "color":[230,125,70],
+      "anime":"《新世纪福音战士》",
+      "name": "明日香",
+      "remark": "あんたバカ？",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/07478cd2007148a2b2e2937acefc7fd2~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "nagisa": {
+      "color":[231,220,233],
+      "anime":"《新世纪福音战士》",
+      "name": "渚薰",
+      "remark": "正是为了与你相遇，我才降生到这个世界",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0367cf5918824d438d6ae45b068080a4~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "yui": {
+      "color":[165,129,96],
+      "anime":"《轻音少女》",
+      "name": "唯",
+      "remark": "哈-----梓喵~~",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/37f2bfaef2644dbb862c85ece2b016bf~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "mio": {
+      "color":[253,225,201],
+      "anime":"《轻音少女》",
+      "name": "秋山澪",
+      "remark": "我嫁不出去了……",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d27340c8594048b5860d8f12f13fa9ee~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "azusa": {
+      "color":[54,33,32],
+      "anime":"《轻音少女》",
+      "name": "梓喵",
+      "remark": "前辈！！！",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74555298198e47fd9732f2097dde4972~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "lelouch": {
+      "color":[30,33,42],
+      "anime":"《叛逆的鲁路修》",
+      "name": "ZERO",
+      "remark": "如果你是魔女，我只要化身魔王就可以了",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cfd6e7e71eb44ca7a0cb32574a0e7b2a~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "cc": {
+      "color":[152,178,80],
+      "anime":"《叛逆的鲁路修》",
+      "name": "C.C.",
+      "remark": "鲁路修，你知道雪为什么是白色的吗？因为忘记了自己曾经的颜色",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/11b1b9eeab1e4c0f95597f7b4753a8db~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "okabe": {
+      "color":[234,218,192],
+      "anime":"《命运石之门》",
+      "name": "凤凰院凶真",
+      "remark": "el psy congroo",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ac14067c841e4acdabfe347fd72b79aa~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kurisu": {
+      "color":[193,102,34],
+      "anime":"《命运石之门》",
+      "name": "助手",
+      "remark": "HENTAI ！",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/62e61ed4db814a29b9932c967a0cc4b6~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "mayuri": {
+      "color":[199,205,201],
+      "anime":"《命运石之门》",
+      "name": "真由喜",
+      "remark": "嘟嘟噜~~",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/15681f6ac4ee4ac7889cb891fcc132d5~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "honoka": {
+      "color": [239, 162, 0],
+      "anime":"《LoveLive》",
+      "name": "高坂穗乃果",
+      "remark": "总有一天，我会让这里座无虚席",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1b6af55e089f486fb68e1ad2003f8883~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kotori": {
+      "color":[244,206,213],
+      "anime":"《LoveLive》",
+      "name": "南小鸟",
+      "remark": "把你们全部都变成小鸟的点心",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/123e7218340e4ee09d87925ee40214b5~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "nico": {
+      "color": [255, 192, 203],
+      "anime":"《LoveLive》",
+      "name": "矢泽妮可",
+      "remark": "NicoNicoNi~ o(〃'▽'〃) V",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b9540bdfed714ef2917a814fbb62d53a~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "l": {
+      "color":[255,255,255],
+      "anime":"《死亡笔记》",
+      "name": "L",
+      "remark": "Kira，我是L",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c60bae92552a4824ae395cc2dcf19f99~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "light": {
+      "color":[0,0,0],
+      "anime":"《死亡笔记》",
+      "name": "夜神月",
+      "remark": "我就是新世界の神",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e15f22d420714f97a286bb440647fd79~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "miku": {
+      "color": [0, 167, 178],
+      "anime":"《初音未来》",
+      "name": "初音未来",
+      "remark": "我是世界第一的公主殿下 ♪♪♪",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03a4e8f2a6124beb831dd87c52d9c56a~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "tianyi": {
+      "anime":"《洛天依》",
+      "name": "洛天依",
+      "remark": "包子真好吃，吧唧吧唧",
+      "color": [102, 204, 255],
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ce3eac9fad564a749812592957bc46f7~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "aling": {
+      "color": [225, 243, 254],
+      "anime":"《乐正绫》",
+      "name": "乐正绫",
+      "remark": "阿绫教你飙高音o(〃'▽'〃)o",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/da0cb57ce9104ab2afe8052e42c794d0~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "luffy": {
+      "color":[255,198,50],
+      "anime":"《海贼王》",
+      "name": "路飞",
+      "remark": "我是要成为海贼王的男人 ！！！",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dcba61cd3f7d4ab0aa69d72c85ee5e14~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "chopper": {
+      "color":[102,214,194],
+      "anime":"《海贼王》",
+      "name": "乔巴",
+      "remark": "混蛋，就算你这么说我一点也不高兴啦，你个混蛋",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6e579075d0884cd7b0a0dbf065709544~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "hancock": {
+      "color":[247,235,246],
+      "anime":"《海贼王》",
+      "name": "汉库克",
+      "remark": "无论妾身做了什么，都会被原谅，因为妾身，实在太美了",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/be8cef794b0044c2a7bb52e038b5028e~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "edward": {
+      "color":[230,200,103],
+      "anime":"《钢之炼金术师》",
+      "name": "爱德华",
+      "remark": "你说谁是豆丁啊？！！！&%$##",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/89dd6544602f43a18b9b3497a9d213fb~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "touma": {
+      "color":[51,72,91],
+      "anime":"《魔法禁书目录》",
+      "name": "上条当麻",
+      "remark": "不幸だ!",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b34c6408cb5745d4b650d28b1049f154~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "misaka": {
+      "color":[171,123,109],
+      "anime":"《魔法禁书目录》",
+      "name": "御坂美琴",
+      "remark": "不要喊我哔哩哔哩(╬▔皿▔)",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9b22945ef7824f32a2e48c632171b475~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "index": {
+      "color":[125,140,225],
+      "anime":"《魔法禁书目录》",
+      "name": "Index",
+      "remark": "当嘛，我肚子饿了o(≧口≦)o",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/72e6a5f7fa6542e9a5931e65cad9f6f0~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "accelerator": {
+      "color":[55,36,59],
+      "anime":"《魔法禁书目录》",
+      "name": "一方通行",
+      "remark": "切，我才不喜欢什么LOLI",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fae75b2c17ed433282b679217e324097~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "subaru": {
+      "color":[245,213,188],
+      "anime":"《Re：从零开始的异世界生活》",
+      "name": "菜月昴",
+      "remark": "帕特拉修，其实...",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/21fba3be1c1f4c09986dc15ff0b6da24~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "rem": {
+      "color": [0, 220, 70],
+      "anime":"《Re：从零开始的异世界生活》",
+      "name": "蕾姆",
+      "remark": "真的，昴是个很过分的人呢",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4104cc4cc9e748d392861143a7ca19ef~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "emt": {
+      "anime":"《Re：从零开始的异世界生活》",
+      "name": "莉雅",
+      "remark": "和管理桑新婚旅游中~~幸福.JPG",
+      "color": [136, 102, 172],
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1681e6323b66473bac08bf9592a11ab8~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "petelgeuse": {
+      "color":[20,19,37],
+      "anime":"《Re：从零开始的异世界生活》",
+      "name": "培提尔其乌斯",
+      "remark": "你，真是怠慢呢",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5a36d7b04b814e058dde0789ae0eeb91~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "hakase": {
+      "color":[239,190,149],
+      "anime":"《日常》",
+      "name": "博士",
+      "remark": "SA ME! SA ME!",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/36feb80576ac4ea38002fa0c6e8e5f82~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "sakamoto": {
+      "color":[239,232,190],
+      "anime":"《日常》",
+      "name": "坂本先生",
+      "remark": "要叫我先生。哎这个好好玩啊",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ba7ca28d512f463c9e584d4c247bacfa~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "shirou": {
+      "color":[150,63,70],
+      "anime":"《Fate》",
+      "name": "士郎",
+      "remark": "Trace on",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/968e923305834ffda65675481dd999fe~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "saber": {
+      "color":[209,196,160],
+      "anime":"《Fate》",
+      "name": "Saber",
+      "remark": "你是我的master吗",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/97f124474cc94051880bb49fd7f99f37~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "lin": {
+      "color":[172,142,108],
+      "anime":"《Fate》",
+      "name": "远坂凛",
+      "remark": "Archer，到我房间来",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/074c366fd44a4b7a96759bb5a4c946cb~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "gilgamesh": {
+      "color":[252,254,234],
+      "anime":"《Fate》",
+      "name": "英雄王",
+      "remark": "杂修",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6b8ed8de7e88426c8bf22f2762482837~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "tokiomi": {
+      "color":[189,157,137],
+      "anime":"《Fate》",
+      "name": "远坂时臣",
+      "remark": "这个锅我不背",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c1fb94d7441f43c48da8401523b124ec~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "shiki": {
+      "color":[255,255,255],
+      "anime":"《Fate》",
+      "name": "两仪式",
+      "remark": "就算是神也杀给你看",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b30e0a6435df4c59a90a9bb6b1985cb9~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kaori": {
+      "color":[253,240,218],
+      "anime":"《四月是你的谎言》",
+      "name": "宫园薰",
+      "remark": "我任命友人A做我的伴奏者",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f262fe90083f4eee8cbfa848e2299c98~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kousei": {
+      "color": [43, 43, 43],
+      "anime":"《四月是你的谎言》",
+      "name": "有马公生",
+      "remark": "春天马上就要来了，让我和你相遇的春天，就要来了，再也没有你的春天，就要来了♪",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bc9d9b33f01e4336b80e3c4cffe5ba56~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "eru": {
+      "color":[76,76,131],
+      "anime":"《冰菓》",
+      "name": "千反田",
+      "remark": "☆ 我很好奇 ☆",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b2f738830f924266b05f7378ea63132d~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "houtarou": {
+      "color":[88,79,73],
+      "anime":"《冰菓》",
+      "name": "奉太郎",
+      "remark": "我也差不多开始厌倦灰色了",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7d6f3618a2744a9f83c81453e6a14607~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "konata": {
+      "color":[95,149,228],
+      "anime":"《幸运星》",
+      "name": "泉此方",
+      "remark": "贫乳是稀有价值",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7fee64e4059549f7b4460cac1474ca2b~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "shana": {
+      "color":[254,104,112],
+      "anime":"《灼眼的夏娜》",
+      "name": "夏娜",
+      "remark": "无路赛，无路赛，无路赛 (┙>∧<)┙へ┻┻",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2a650559adb24a0587a3c5cbd18f3c81~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "makoto": {
+      "color":[238,243,237],
+      "anime":"《日在校园》",
+      "name": "大家的诚",
+      "remark": "我是渣男",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b6cbdbb21126402da0065df273fc159c~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "gintoki": {
+      "color":[204,225,247],
+      "anime":"《银魂》",
+      "name": "坂田银时",
+      "remark": "天然卷的家伙都是好人",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3ef37f11e1464104bc191665d1406bb7~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "elizabeth": {
+      "color":[225,225,225],
+      "anime":"《银魂》",
+      "name": "伊丽莎白",
+      "remark": "（举牌）",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/80eef0e17fb44aee84f31d2bfdc4a403~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "asuna": {
+      "color":[226,175,128],
+      "anime":"《刀剑神域》",
+      "name": "亚丝娜",
+      "remark": "初次见面，我是结城明日奈，多次获得劳动模范称号",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/db54e863e5044ff89832f49f611d69b1~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kirito": {
+      "color":[204,191,182],
+      "anime":"《刀剑神域》",
+      "name": "桐子",
+      "remark": "听说我老婆本子特别多？",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c13b74866a6845729f36040f4b33e3f4~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "madoka": {
+      "color":[241,181,195],
+      "anime":"《魔法少女小圆》",
+      "name": "鹿目圆",
+      "remark": "我……根本就不需要绝望",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/da9f6326417d478795a90e4cfa24ce92~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "homura": {
+      "color": [48, 48, 48],
+      "anime":"《魔法少女小圆》",
+      "name": "晓美焰",
+      "remark": "没有人会相信未来，没有人会接受未来。我不再依靠任何人了，也不需要让任何人去理解了",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03fbc61b9c16403294c73cb8243a58bd~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "mami": {
+      "anime":"《魔法少女小圆》",
+      "name": "学姐",
+      "remark": "咦，好像缺了点什么",
+      "color": [247, 218, 139],
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03f8399b4d28433c88a9bf2cd951c140~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "qb": {
+      "color":[255,255,255],
+      "anime":"《魔法少女小圆》",
+      "name": "QB",
+      "remark": "和我签订契约，成为魔法少女吧",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/daf5ada883d24744a73edac64d1e9f10~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kanade": {
+      "color":[145,194,227],
+      "anime":"《Angel Beats!》",
+      "name": "立华奏",
+      "remark": "请给我来一盆麻婆豆腐，特辣那种",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e3319f10b46c42c0afb934f60e4f85bb~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kyousuke": {
+      "color":[138,101,57],
+      "anime":"《我的妹妹哪有这么可爱！》",
+      "name": "高坂京介",
+      "remark": "俺妹不可爱",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3c35e4475a424c3eb71faa31a32c6940~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kirino": {
+      "color":[150,197,241],
+      "anime":"《我的妹妹哪有这么可爱！》",
+      "name": "小桐桐",
+      "remark": "死妹控 恶心",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3aea479134f04859862018233f03d76f~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "ruri": {
+      "color":[64,54,91],
+      "anime":"《暗杀教室》",
+      "name": "黑猫",
+      "remark": "咒杀你哦",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b29c0b5d467a452ab1add31ba1da82a0~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "korosensei": {
+      "color":[255,238,2],
+      "anime":"《暗杀教室》",
+      "name": "杀老师",
+      "remark": "五路哎嘿嘿嘿嘿嘿嘿",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/de8e0e27aae0412e872e0c4081d078c0~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "nagisak": {
+      "color": [155, 198, 247],
+      "anime":"《暗杀教室》",
+      "name": "潮田渚",
+      "remark": "我们是杀手，目标是，老师",
+
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9ac301d87b51453188fc18707c0a06da~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "karma": {
+      "color":[131,71,115],
+      "anime":"《暗杀教室》",
+      "name": "赤羽業",
+      "remark": "呦，渚，今天你好可爱啊",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/699746432a2843389403b4f0567754f3~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "mirai": {
+      "color":[157,117,132],
+      "anime":"《境界的彼方》",
+      "name": "栗山未来",
+      "remark": "不愉快です",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/17698a7bf663483fb5dbbbc6bc782c39~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "souma": {
+      "color":[255,255,255],
+      "anime":"《食戟之灵》",
+      "name": "药王",
+      "remark": "招待不周（¯﹃¯）",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a5710d5a4c9e4bdfa800bab7be5838f4~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "sora": {
+      "color":[213,199,177],
+      "anime":"《缘之空》",
+      "name": "春日野穹",
+      "remark": "欧尼酱，不要啊 (*/ω＼*)",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/545a203d5db2484e86df39222a8d5c25~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "sakamotobi": {
+      "color":[0,0,0],
+      "anime":"《在下坂本有何贵干》",
+      "name": "在下坂本",
+      "remark": "在下坂本，有何贵干",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b89f5c75e86245b5828f55ea7e7381e3~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "jotaro": {
+      "color":[29,120,175],
+      "anime":"《JOJO的奇妙冒险》",
+      "name": "承太郎",
+      "remark": "欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉(╬ﾟдﾟ)",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/701e23fae4244eb6b9dd5a556d722280~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "dio": {
+      "color":[241,162,4],
+      "anime":"《JOJO的奇妙冒险》",
+      "name": "迪奥",
+      "remark": "木大木大木大木大木大木大木大木大(ﾟДﾟ)w",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5b36208ecc1a43f3aa99a1fafe0aa376~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "haruhi": {
+      "color":[92,64,59],
+      "anime":"《凉宫春日的忧郁》",
+      "name": "SOS团长",
+      "remark": "我对普通的人类没有兴趣。你们之中要是有外星人、未来人、异世界来的人、超能力者，就尽管来找我吧！以上",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/82de7180baa644b0b99cb4da0b834b30~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kyon": {
+      "color":[6,37,58],
+      "anime":"《凉宫春日的忧郁》",
+      "name": "阿虚",
+      "remark": "诸君，我喜欢单马尾",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5056c24900894d6bbe76ad3ec944a5bb~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "yuki": {
+      "color": [128, 98, 117],
+      "anime":"《小长门有希的消失》",
+      "name": "长门有希",
+      "remark": "真正的危机不是机器人像人一样思考，而是人像机器一样思考。",
+
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/de94ce105d2f46ce8f0561ab6c53971a~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "yukari": {
+      "color":[123,80,125],
+      "anime":"《东方Project》",
+      "name": "八云紫",
+      "remark": "我是八云紫，今年17岁",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2d9037f4cd244fc5bd86e868e41a4d44~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "marisa": {
+      "color":[255,255,195],
+      "anime":"《东方Project》",
+      "name": "魔理沙",
+      "remark": "弹幕最重要的是火力da☆ze！",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/02b92b77451e4d76bcd2049b454cc741~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "remilia": {
+      "color":[212,135,156],
+      "anime":"《东方Project》",
+      "name": "大小姐",
+      "remark": "给我来一杯85年的红茶",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/664ef934553c44dcb614961fa02a610a~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "shu": {
+      "color":[90,65,68],
+      "anime":"《罪恶王冠》",
+      "name": "集",
+      "remark": "我的王之力啊♂",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/294a5f4efffd4fcfa1b3a07ddd6adde5~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "inory": {
+      "color": [195, 70, 24],
+      "anime":"《》",
+      "name": "祈",
+      "remark": "请使用我",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7aea52538f044c0ebdb6a705933bc94c~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "hideyoshi": {
+      "color":[165,109,129],
+      "anime":"《笨蛋、测验、召唤兽》",
+      "name": "秀吉",
+      "remark": "老朽的性别是男",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/feb2d7094c3e40698f36fe296fb44367~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "orihara": {
+      "color": [230, 167, 38],
+      "anime":"《无头骑士异闻录》",
+      "name": "甘楽",
+      "remark": "人类LOVE！我最喜欢人类了！我爱你们！",
+
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/82bd677ca3634d9e86cc516909c58fab~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "levi": {
+      "color":[22,77,97],
+      "anime":"《进击的巨人》",
+      "name": "利威尔",
+      "remark": "喂，小鬼们，现在是什么情况啊",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c446be5ddf994259b874d599c709bf88~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "naruto": {
+      "color":[217,229,81],
+      "anime":"《火影忍者》",
+      "name": "漩涡鸣人",
+      "remark": "忍术·大色诱之术",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c6b4fd82cd0f484b96b95f14364b1bd3~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "sasuke": {
+      "color":[183,192,221],
+      "anime":"《火影忍者》",
+      "name": "宇智波佐助",
+      "remark": "呦，吊车尾（关爱智障的眼神）",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/353a05bfe602473aa87f9fd112fa00ad~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "sakuran": {
+      "color":[254,173,209],
+      "anime":"《火影忍者》",
+      "name": "春野樱",
+      "remark": "打爆你哦",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5c9cc67d32f14d358149af5f7a79b60f~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kakashi": {
+      "anime":"《火影忍者》",
+      "name": "卡卡西",
+      "remark": "我在人生的道路上迷失了...",
+      "color": [130, 144, 91],
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/43c7539a3b5c4a24bb6a6803fc71bc8e~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "naruhodo": {
+      "color": [63, 67, 138],
+      "anime":"《逆转裁判》",
+      "name": "成步堂龙一",
+      "remark": "异议あり!!!",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f4cea51f7bf447c8b1a026cee49ea21a~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "konan": {
+      "color":[162,123,197],
+      "anime":"《名侦探柯南》",
+      "name": "江户川柯南",
+      "remark": "真相只有一个，凶手就是楼下这个光头！",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/55e1ab92479249c399c88f49cccda751~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "ran": {
+      "color":[46,37,32],
+      "anime":"《名侦探柯南》",
+      "name": "毛利兰",
+      "remark": "因为我相信，红线连着我和新一呢",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a904fe12698447e0bcd999f02163cdc8~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "ai": {
+      "color":[117,85,46],
+      "anime":"《名侦探柯南》",
+      "name": "灰原哀",
+      "remark": "工藤，我喜欢你",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bea169d19221464b9623d703288b921a~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "sakura": {
+      "anime":"《魔法少女小樱》",
+      "name": "小樱",
+      "remark": "隐藏着黑暗力量的钥匙啊！请在我面前显示你真正的力量，与你定下约定的小樱命令你，封印解除！",
+      "color": [242, 137, 152],
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c9efef442ed243d283cc066a7d695aa4~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kira": {
+      "color":[8,64,191],
+      "anime":"《机动战士高达》",
+      "name": "基拉大和",
+      "remark": "基拉大和、Freedom，出撃",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4de4df75030342febfde4de4f29f8555~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "athrun": {
+      "color":[136,120,106],
+      "anime":"《机动战士高达》",
+      "name": "阿斯兰",
+      "remark": "基拉？！！！！！！！",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a89e6b756f6a4e98bfb596d013f90241~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "lacus": {
+      "color":[221,209,219],
+      "anime":"《机动战士高达》",
+      "name": "拉克丝",
+      "remark": "♬♪♬♪♬♪♪♪（聊天室全员被洗脑中...）",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a263b33d25154c57add69e8e7732e7c0~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "cagalli": {
+      "color":[228,113,67],
+      "anime":"《机动战士高达》",
+      "name": "卡嘉莉",
+      "remark": "美玲，放开我家阿斯兰￣へ￣",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/317c3062cd6844a185e675654bbe0c61~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "mwu": {
+      "color": [190, 163, 57],
+      "anime":"《机动战士高达》",
+      "name": "穆",
+      "remark": "我果然是化不可能为可能的男人",
+
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f6fc38ae1a284cd08c27b1be1a669f58~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "setsuna": {
+      "anime":"《机动战士高达》",
+      "name": "刹那",
+      "remark": "我是GUNDAM",
+      "color": [50, 66, 143],
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03dece59553541ae92120e7a303579e2~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "lockon": {
+
+      "anime":"《机动战士高达》",
+      "name": "洛克昂",
+      "remark": "洛克昂·史特拉托斯，瞄准狙击！",
+      "color": [69, 103, 72],
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a936b2a7eb894a09ba4131703279f678~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "pikachu": {
+      "color":[	0,191,255],
+      "anime":"《神奇宝贝》",
+      "name": "皮卡丘",
+      "remark": "● PIKA PIKA ●",
+      "avatar": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ef938bee25014529a88cd919867364a6~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "amuro": {
+      "color":[255,255,255],
+      "anime":"《机动战士高达》",
+      "name": "阿姆罗",
+      "remark": "你居然打我！连我爸爸都没打过我！",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cc34d3dcc0934388bb74cdfb79629f4c~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "char": {
+      "anime":"《机动战士高达》",
+      "name": "夏亚",
+      "remark": "必杀！红色有角三倍速",
+      "color": [169, 56, 62],
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4712b214075646c8b4e4d49174c8bbcc~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "ushio": {
+      "color":[160,194,9],
+      "anime":"《CLANNAD》",
+      "name": "汐",
+      "remark": "早苗说了，可以哭的地方只有厕所…还有就是…爸爸的怀里…",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fc38070c8da14a238567b55777892e4c~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "natsume": {
+      "color":"",
+      "anime":"《夏目友人帐》",
+      "name": "夏目",
+      "remark": "我想保护平常的日常生活，与我一起度过那样生活的人们",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8285dfe9fc6a455e845a7354c75cbe27~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "nekosensei": {
+      "color":[255,227,177],
+      "anime":"《夏目友人帐》",
+      "name": "猫老师",
+      "remark": "人类真是麻烦的生物",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/30341b845bb54e6b9f16cd0cf7063201~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "mashiro": {
+      "anime":"《樱花庄的宠物女孩》",
+      "name": "椎名真白",
+      "remark": "呐,你想变成什么颜色?",
+      "color": [245, 245, 245],
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5508b55eb0cb441fb12dc41b2a3f5368~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "hiki": {
+      "color":[223,241,255],
+      "anime":"《我的青春恋爱物语果然有问题。》",
+      "name": "大老师",
+      "remark": "（敲黑板）记笔记了！",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3ca12ec97e8e44c590ae36a39f7b38fd~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "yukino": {
+      "color":[117,123,151],
+      "anime":"《我的青春恋爱物语果然有问题。》",
+      "name": "雪之下雪乃",
+      "remark": "将来某一天,你要来拯救我哦",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bebea3bf4a384d40b28294a6028de4a6~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "yuigahama": {
+      "color":[255,255,255],
+      "anime":"《我的青春恋爱物语果然有问题。》",
+      "name": "由比滨结衣",
+      "remark": "把我的胸还给我 o(￣ヘ￣*)",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/036c8ef6dbf942929957bfd73d6eacb1~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "iroha": {
+      "color":[179,183,150],
+      "anime":"《我的青春恋爱物语果然有问题。》",
+      "name": "一色彩羽",
+      "remark": "你要对我负责哦(●'◡'●)ﾉ♥ ",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6dc3467c56944e3fa8262203cb05718a~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "renge": {
+      "color": [210, 198, 238],
+      "anime":"《悠哉日常大王》",
+      "name": "宫内莲华",
+      "remark": "喵帕斯 (=ﾟωﾟ)ﾉ ♪",
+
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/79205d3bd16847fd8fd7a4502cbb51b3~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kurumi": {
+      "color":[194,163,144],
+      "anime":"《约会大作战》",
+      "name": "时崎狂三",
+      "remark": "啊啦啊啦～",
+      "avatar": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/161adc82554c463a9ceb7dd283e36ae3~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kuroko": {
+      "anime":"《黑子的篮球》",
+      "name": "黑子",
+      "remark": "我是影子，光越强，影子也就越强",
+      "color": [183, 214, 242],
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f0d4552d07e94996b8a87ba4f7239971~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kagami": {
+      "anime":"《黑子的篮球》",
+      "name": "火神",
+      "remark": "赢不了，正好",
+      "color": [183, 30, 33],
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/05a92a8dc69b41d1b913b33bc5b7df45~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "akashi": {
+      "anime":"《黑子的篮球》",
+      "name": "赤司征十郎",
+      "remark": "我从不知何为败北",
+      "color": [197, 38, 49],
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8a0a08ab4e3e48cfac3443659cb4e462~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "hinata": {
+      "anime":"《排球少年!!》",
+      "name": "日向翔阳",
+      "remark": "挡在我面前的，是一面很高很高的墙",
+      "color": [223, 132, 69],
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/18aef7009a694bcc91476332cb49289a~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kageyama": {
+      "color":[26,24,52],
+      "anime":"《排球少年!!》",
+      "name": "影山飞雄",
+      "remark": "Boke !!! (╬◣д◢)",
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/532a8cd3a45444949cf9034c710008f5~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "oikawa": {
+      "anime":"《排球少年!!》",
+      "name": "及川彻",
+      "remark": "认为自己没有才能的话，大概一辈子都不会有了",
+      "color": [65, 167, 172],
+      "avatar": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f50fb7a8b3b54eb190b74afa433c158b~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "yao": {
+      "color":[250,218,182],
+      "anime":"《黑塔利亚》",
+      "name": "王耀",
+      "remark": "交给我吧阿鲁！",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2bd795f5ac7b4f659a664a3bfe0c82a5~tplv-k3u1fbpfcp-watermark.image?"
+  },
+  "kiku": {
+      "color":[84,49,47],
+      "anime":"《黑塔利亚》",
+      "name": "本田菊",
+      "remark": "请容在下考虑一下",
+      "avatar": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/285d739348504562a11cc326baf0c739~tplv-k3u1fbpfcp-watermark.image?"
+  }
+}

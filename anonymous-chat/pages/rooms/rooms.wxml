@@ -1,0 +1,41 @@
+<!--pages/rooms/rooms.wxml-->
+<!--index.wxml-->
+<!-- 动态绑定背景色 -->
+<view class="bg" style="background-color: {{anonymousRole.color ? ('rgb(' + anonymousRole.color[0] + ',' + anonymousRole.color[1] + ',' + anonymousRole.color[2] + ')')  : '#000'}};">
+  <view class="rooms" style="background-color: {{anonymousRole.color ? ('rgb(' + anonymousRole.color[0] + ',' + anonymousRole.color[1] + ',' + anonymousRole.color[2] + ')')  : '#000'}};">
+    <!-- 资料卡 -->
+    <view class="profile" bindtap="getDetailInfo">
+      <view class="avatar">
+        <image src="{{anonymousRole.avatar}}"></image>
+      </view>
+      <view class="user-info">
+        <view class="user-name">昵称：{{anonymousRole.name}}</view>
+        <view class="remark">签名：{{anonymousRole.remark}}</view>
+      </view>
+    </view>
+    <!-- 操作按钮列表 -->
+    <view class="handle-list">
+      <input type="text" bindinput="bindRoomContent" value='{{inputRoomContent}}' />
+      <view class="btn-list">
+        <button size="mini" bindtap="getRoomList">刷新列表</button>
+        <button size="mini" bindtap="addRoom">添加房间</button>
+        <button size="mini" bindtap="searchRoom">搜索房间</button>
+      </view>
+    </view>
+    <!-- 房间列表 -->
+    <view class="room-list">
+      <view class="rooms-tabs">
+        <view>房间名</view>
+        <view>创建者</view>
+        <view>在线人数</view>
+      </view>
+      <block wx:for="{{showRoomList}}" wx:key="roomId">
+        <view class="rooms-item" bindtap="toChat" data-obj="{{item}}" bindlongpress='delRoom'>
+          <view>{{item.name}}</view>
+          <view>{{item.creator}}</view>
+          <view>{{item.membersCount}}</view>
+        </view>
+      </block>
+    </view>
+  </view>
+</view>

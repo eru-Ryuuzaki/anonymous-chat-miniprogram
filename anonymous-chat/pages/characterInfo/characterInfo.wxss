@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.main image {
+  height: 120rpx;
+  width: 120rpx;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.main view {
+  text-align: center;
+  margin: 20px;
+}

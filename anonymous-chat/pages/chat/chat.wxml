@@ -1,0 +1,31 @@
+<view class="bg">
+  <view class="wrap">
+    <!-- 消息列表 -->
+    <view class="containerBox">
+      <view wx:key="{{index}}" wx:for="{{allContentList}}" class="content-list" wx:key="index">
+        <view class="nick-name" style="text-align: {{item.name != anonymousRole.name ? 'left' : 'right'}}; ">{{item.name}}</view>
+        <!-- 左边消息样式 -->
+        <view wx:key="{{index}}" wx:if="{{item.name != anonymousRole.name}}">
+          <view style="float: left;" bindtap="getDetailInfo" data-role="{{item}}">
+            <image src="{{item.avatar}}"></image>
+          </view>
+          <view class="textBox fl"> {{item.value}}</view>
+        </view>
+        <!-- 右边消息样式 -->
+        <view wx:key="{{index}}" wx:if="{{item.name == anonymousRole.name}}">
+          <view style=" float: right;" bindtap="getDetailInfo" data-role="{{item}}">
+            <image src="{{item.avatar}}"></image>
+          </view>
+          <view class="textBox fr">
+            {{item.value}}
+          </view>
+        </view>
+      </view>
+    </view>
+    <!-- 发送框 -->
+    <view class="handleBox">
+      <input class="input_submit" placeholder="点击输入，开始聊天吧" bindinput="bindKeyInput" value='{{inputValue}}' />
+      <button type="submit" class="btn_submit" size="mini" bindtap="submitTo">发送</button>
+    </view>
+  </view>
+</view>

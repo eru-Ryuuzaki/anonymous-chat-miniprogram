@@ -1,0 +1,9 @@
+<view class="main">
+  <view style="display: flex;">
+    <image src="{{anonymousRole.avatar}}"></image>
+  </view>
+
+  <view>来自动漫：{{anonymousRole.anime}}</view>
+  <view>名字：{{anonymousRole.name}}</view>
+  <view>签名：{{anonymousRole.remark}}</view>
+</view>
